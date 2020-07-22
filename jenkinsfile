@@ -1,2 +1,2 @@
-node(maven-label){
+node(maven-label:latest){
 }
