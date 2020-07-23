@@ -1,2 +1,5 @@
 node(maven-label:latest){
+stage("prepare"){
+echo "Hello world"
+}
 }
